@@ -21,7 +21,7 @@ class ListViewModel: ObservableObject {
                           ItemModel (title: "Turn off lights during the day and computers when not in use", isCompleted: true),
                           ItemModel(title: "Limit plastic consumption by avoiding single-use plastic", isCompleted: true),
                           ItemModel (title: "Go for a jog/walk in the morning", isCompleted: false), ItemModel (title: "Use Metal or Steel bottle for drinking water instead of plastic", isCompleted: false),
-                          ItemModel (title: "Volunteer for clean ups in your community", isCompleted: true)
+                          ItemModel (title: "Volunteer for clean ups in your community!", isCompleted: true)
                           
         ]
         
